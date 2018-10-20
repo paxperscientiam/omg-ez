@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "typeRoots" : ["node_modules/@types"],
+        "types": ["node"],
+        "emitDecoratorMetadata":  true,
+        "experimentalDecorators": true,
+        "importHelpers":          true,
+        "inlineSources":          true,
+        "jsx":                    "react",
+        "module":                 "commonjs",
+        "sourceMap":              true,
+        "target":                 "esnext",
+        "skipLibCheck":           true
+    },
+}
